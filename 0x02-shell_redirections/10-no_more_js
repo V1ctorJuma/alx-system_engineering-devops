@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -name '*.js' type -f -delete
+grep *.js type -f -delete
